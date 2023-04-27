@@ -1,0 +1,34 @@
+Fonksiyon: 
+
+/**
+* Varsay�lan kurucu fonksiyon
+
+
+------------------------------
+
+Fonksiyon: 
+
+/**
+*
+* @param motorNo UUID olarak motor id
+* @return motor instance
+
+
+------------------------------
+
+Fonksiyon:     public void calistir() {
+
+/**
+* calisiyor true yap�l�yor
+
+
+------------------------------
+
+Fonksiyon: 
+
+/**
+* Motorun durdurulmas� //
+
+
+------------------------------
+

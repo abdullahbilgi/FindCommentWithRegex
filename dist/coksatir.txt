@@ -1,0 +1,15 @@
+Fonksiyon:     public Motor() {
+
+/* Ba�lang��ta false
+
+
+------------------------------
+
+Fonksiyon:     public Motor(String motorNo) {
+
+/*
+* Varolan bir motor no ile olu�turuluyor.
+
+
+------------------------------
+
